@@ -67,13 +67,6 @@ button[aria-label="Playing"],
   fill: var(--spice-heart) !important;
 }
 
-.__transparent, .main-entityHeader-backgroundColor,
-.main-home-homeHeader,
-.main-actionBarBackground-background {
-  background-color: transparent !important;
-  background: transparent !important;
-}
-
 .__scale_hover:hover, .main-playButton-PlayButton:hover,
 .main-playButton-primary:hover,
 .ButtonInner-sc-14ud5tc-0:hover,
