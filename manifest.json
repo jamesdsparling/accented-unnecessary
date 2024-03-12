@@ -1,6 +1,6 @@
 {
-  "name": "Accented",
-  "description": "Replace Spotify's green and remove unnecessary colors.",
+  "name": "Accented-Unnecessary",
+  "description": "Replace Spotify's green.",
   "preview": "./img/logo.png",
   "readme": "./README.md",
   "usercss": "./user.css",
